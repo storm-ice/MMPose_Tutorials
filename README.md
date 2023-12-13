@@ -24,3 +24,7 @@ git remote set-url origin https://github.com/storm-ice/MMPose_Tutorials
 git remote -v
 ```
 
+```
+git push -u origin main
+```
+
