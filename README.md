@@ -9,3 +9,18 @@ MMPose主页：https://github.com/open-mmlab/mmpose
 代码测试[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)：GPU RTX 3060、CUDA v11.2
 
 添加OpenMMLab喵喵小助手微信：OpenMMLabwx 回复 子豪兄三角板 ，即可免费加入MMPose/MMHuman3D/关键点检测交流群，同济子豪兄和众多Pose大佬也在群里哦~
+
+
+
+```
+git remote add origin https://github.com/storm-ice/MMPose_Tutorials
+```
+
+```
+git remote set-url origin https://github.com/storm-ice/MMPose_Tutorials
+```
+
+```
+git remote -v
+```
+
